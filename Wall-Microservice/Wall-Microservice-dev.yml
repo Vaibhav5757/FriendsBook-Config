@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://admin:password%40123@friends-book.5agog.mongodb.net/FriendsBook?retryWrites=true&w=majority
