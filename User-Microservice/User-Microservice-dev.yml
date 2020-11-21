@@ -9,3 +9,6 @@ spring:
     hibernate:
       ddl-auto: create
     show-sql: false
+admin:
+  username: admin@gmail.com
+  password: password
