@@ -10,5 +10,6 @@ spring:
       ddl-auto: create
     show-sql: false
 admin:
+  name: admin
   username: admin@gmail.com
   password: password
