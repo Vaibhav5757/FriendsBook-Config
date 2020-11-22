@@ -9,7 +9,11 @@ spring:
     hibernate:
       ddl-auto: create
     show-sql: false
+
 admin:
   name: admin
   username: admin@gmail.com
   password: password
+
+eureka:
+  client: https://friendsbook-eureka-server.herokuapp.com/
