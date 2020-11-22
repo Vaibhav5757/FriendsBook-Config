@@ -17,4 +17,5 @@ admin:
 
 eureka:
   client:
-    service-url: https://friendsbook-eureka-server.herokuapp.com
+    service-url:
+      default-zone: https://friendsbook-eureka-server.herokuapp.com/
