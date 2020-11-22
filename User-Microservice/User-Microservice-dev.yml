@@ -16,4 +16,5 @@ admin:
   password: password
 
 eureka:
-  client: https://friendsbook-eureka-server.herokuapp.com/
+  client:
+    service-url: https://friendsbook-eureka-server.herokuapp.com/
