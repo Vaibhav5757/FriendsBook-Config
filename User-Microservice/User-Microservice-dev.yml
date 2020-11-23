@@ -14,8 +14,3 @@ admin:
   name: admin
   username: admin@gmail.com
   password: password
-
-eureka:
-  client:
-    service-url:
-      default-zone: https://friendsbook-eureka-server.herokuapp.com:8761/eureka
