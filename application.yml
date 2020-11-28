@@ -1,5 +1,5 @@
 jwt:
-  secret: dqwnamsdzcxnnjkdadncxjasdnas
+  secret: "{cipher}95e4aac64d82458acdef6364f4ce898cd8da6bf412be0fe73fefa7877ec235f5eb89c0360f7cd5e7cf82daccbaa4b5f7"
 eureka:
   client:
     fetch-registry: true
@@ -7,4 +7,4 @@ eureka:
     healthcheck:
       enabled: true
     service-url:
-      defaultZone: https://friendsbook-eureka-server.herokuapp.com/eureka/
+      defaultZone: "{cipher}e17b574acb624dc3047a62c94df6cd5cceec3a096772de12dcb48211d64c777b55847e26558ba93736f99ccccbfdb08cd1592073d060d8d67ab70f9cac59cde230d690ab6e93e6fb9330816e339754ee"
