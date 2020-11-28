@@ -1,2 +1,10 @@
 jwt:
   secret: dqwnamsdzcxnnjkdadncxjasdnas
+eureka:
+  client:
+    fetch-registry: true
+    register-with-eureka: true
+    healthcheck:
+      enabled: true
+    service-url:
+      defaultZone: https://friendsbook-eureka-server.herokuapp.com/eureka/
