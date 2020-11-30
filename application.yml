@@ -7,4 +7,4 @@ eureka:
     healthcheck:
       enabled: true
     service-url:
-      defaultZone: "{cipher}e17b574acb624dc3047a62c94df6cd5cceec3a096772de12dcb48211d64c777b55847e26558ba93736f99ccccbfdb08cd1592073d060d8d67ab70f9cac59cde230d690ab6e93e6fb9330816e339754ee"
+      defaultZone: "{cipher}194a6ea53585a664f6cb6910025f9ab23f46528a3cd93647b2138ca54e857b81f0e8fedad974cf5b2399752c947c5a5c63064b0ec54c737db3522b0d6395ae54"
