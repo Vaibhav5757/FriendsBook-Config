@@ -1,4 +1,6 @@
 eureka:
+  server:
+    expected-client-renewal-interval-seconds: 5
   client:
     register-with-eureka: false
     fetch-registry: false
