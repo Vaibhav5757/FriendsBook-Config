@@ -1,3 +1,4 @@
+---
 eureka:
   # server:
   #   expected-client-renewal-interval-seconds: 5
