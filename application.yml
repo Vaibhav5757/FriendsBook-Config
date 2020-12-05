@@ -3,7 +3,7 @@ jwt:
 eureka:
   instance:
     preferIpAddress: true
-    lease-renewal-interval-in-seconds: 5
+    # lease-renewal-interval-in-seconds: 5
   client:
     fetch-registry: true
     register-with-eureka: true
