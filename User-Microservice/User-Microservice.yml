@@ -2,6 +2,3 @@ spring:
   jpa:
     hibernate:
       ddl-auto: create
-eureka:
-  instance:
-    hostname: ${DOMAIN_NAME}
