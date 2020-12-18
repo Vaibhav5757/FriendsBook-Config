@@ -1,5 +1,4 @@
 server:
   port: 8761
-CONFIG-SERVER-URL: https://friendsbook-config-server.herokuapp.com/
 USER-SERVICE-URL: http://localhost:8081
 FRONT-END-SERVICE-URL: http://localhost:8888
