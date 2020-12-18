@@ -1,4 +1,2 @@
 server:
   port: 8761
-USER-SERVICE-URL: http://localhost:8081
-FRONT-END-SERVICE-URL: http://localhost:8888
