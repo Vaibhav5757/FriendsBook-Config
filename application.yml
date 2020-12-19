@@ -8,3 +8,5 @@ eureka:
       enabled: true
     service-url:
       defaultZone: "{cipher}2d6cfa8111baba9cadb74e838a1cbceecdbfe8eb3b356ad3485584573efe7e66ead7be72a7ca7ce71aac35b58f66431239135bfafc5520cd4de2009f3a407b5971c3d9a6943f2eb7478bab364978dec8"
+      non-secure-port: 80
+      secure-port: 443
