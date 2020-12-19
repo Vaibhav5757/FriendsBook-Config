@@ -1,5 +1,7 @@
 jwt:
   secret: "{cipher}95e4aac64d82458acdef6364f4ce898cd8da6bf412be0fe73fefa7877ec235f5eb89c0360f7cd5e7cf82daccbaa4b5f7"
+server:
+  port: ${PORT}
 eureka:
   client:
     fetch-registry: true
