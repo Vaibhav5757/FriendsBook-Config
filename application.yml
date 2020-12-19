@@ -6,5 +6,6 @@ eureka:
     register-with-eureka: true
     healthcheck:
       enabled: true
-    service-url: 
-      defaultZone: "{cipher}2d6cfa8111baba9cadb74e838a1cbceecdbfe8eb3b356ad3485584573efe7e66ead7be72a7ca7ce71aac35b58f66431239135bfafc5520cd4de2009f3a407b5971c3d9a6943f2eb7478bab364978dec8"
+    service-url:
+      defaultZone: "{cipher}eea6819fe06cee8b47dc0a1ddaea402aac82b66209677c69756f91518026fca9b6db70b5267e4e8f33e56bebccc64a96"
+      # defaultZone: "{cipher}2d6cfa8111baba9cadb74e838a1cbceecdbfe8eb3b356ad3485584573efe7e66ead7be72a7ca7ce71aac35b58f66431239135bfafc5520cd4de2009f3a407b5971c3d9a6943f2eb7478bab364978dec8"
