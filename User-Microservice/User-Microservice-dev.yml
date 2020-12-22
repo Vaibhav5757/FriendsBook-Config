@@ -1,18 +1,2 @@
 server:
   port: 8081
-eureka:
-  instance:
-    hostname: localhost
-  client:
-    service-url: 
-      defaultZone: http://localhost:8761/eureka
-spring:
-  security:
-    user:
-      name: user
-      password: password
-  datasource:
-    url: jdbc:postgresql://localhost:5432/friends_book
-    username: postgres
-    password: password
-    driver-class-name: org.postgresql.Driver  
