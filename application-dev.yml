@@ -1,5 +1,0 @@
-jwt:
-  secret: "{cipher}efdae2bb0a7f7f29acec9ad70bed11afac9a5041bd01d135cd3106a4525ecc677d2d4ca2c50686b52ab155802ad63fb6047c19ca790d997373c88a811b7204c3"
-eureka:
-  client:
-    service-url: "http://localhost:8761/eureka"
