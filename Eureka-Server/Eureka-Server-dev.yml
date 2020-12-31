@@ -1,2 +1,8 @@
 server:
   port: 8761
+eureka:
+  client:
+    service-url:
+      defaultZone: "{cipher}b25b415e4e4a30c2e3949feb1a8396f52e35d8cba2b297ff755d463834b42c395781efa54c813d1d8c5ca4e89879ae59"
+      non-secure-port: 80
+      secure-port: 443
