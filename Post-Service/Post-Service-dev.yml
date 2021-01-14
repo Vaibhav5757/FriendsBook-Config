@@ -6,3 +6,7 @@ eureka:
       defaultZone: "{cipher}491a531f321dc9faf243bb206d2d26905c17aa548411b130ee6e119fe3cb757b97cef03131d920e128a7292657bf90fe"
       non-secure-port: 80
       secure-port: 443
+spring:
+  data:
+    mongodb:
+      uri: "{cipher}d6bcbaae468864e9e95eededc2a875673d59ea3541876e72dd4039baa0b00e0fcc651d23a3b155d63dad6c71f529a12e007734db343fbb6f8bb15a60df0439ae4a2a27106c57b523643df1010eb961880de45cdb58bb111382668827fa72252a"
