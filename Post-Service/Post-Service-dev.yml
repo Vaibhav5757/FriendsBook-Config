@@ -3,6 +3,6 @@ server:
 eureka:
   client:
     service-url:
-      defaultZone: "{cipher}84716af6f5420d2f5d113460a22be4d66ec172695b1941468dfae8d5e41b45ef1c3fa404c21d3f8e487eec1470719f98"
+      defaultZone: "{cipher}491a531f321dc9faf243bb206d2d26905c17aa548411b130ee6e119fe3cb757b97cef03131d920e128a7292657bf90fe"
       non-secure-port: 80
       secure-port: 443
