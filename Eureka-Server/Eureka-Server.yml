@@ -4,3 +4,5 @@ eureka:
     fetch-registry: true
   server:
     enable-self-preservation: false
+  instance:
+    prefer-ip-address: false
