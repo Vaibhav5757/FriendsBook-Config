@@ -1,2 +1,4 @@
-
-  
+spring:
+  data:
+    mongodb:
+      uri: "{cipher}0b70462ef61f9a55a427a7dce01cbbe204b85ca1a09e44ffd67ea4392f367c74ee865106087dd1b4b1de3e1fb8f00e2f6029e05c74ae8e3c39b1c0b3ac25b62d7c95ddfb5814fd1ffc749af3922218420d783ac627df4b79ea3b93b176d6966a"
